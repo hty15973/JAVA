@@ -10,3 +10,4 @@ class Person { // 클래스는 메서드와 비슷하지만 다른점은 public과 default 만 사용
 		this.name =name ; 
 	}
 }
+1

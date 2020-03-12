@@ -5,3 +5,4 @@ public class JAVA2 {
 		Scanner sc = new Scanner(System.in);
 	}
 }
+1

@@ -59,4 +59,5 @@ public class Manager {
 			System.out.println(students[i]);
 		}
 	}
+	1
 }

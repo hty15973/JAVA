@@ -37,5 +37,5 @@ public class Student {
 	public String toString() {
 		return (name + " , " + jumsu + " , " + rank);
 	}
-	
+	1
 }
