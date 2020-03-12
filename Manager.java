@@ -1,4 +1,3 @@
-
 public class Manager {
 	private Student[] students;
 	 // public int defaultCount = 10; 이러면 컴파일 오류가난다. 이건 객체의 멤번데 객체의 생성조건은 생성자의 호출이 우선이기 때문이다.static 요구된다.
