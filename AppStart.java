@@ -14,4 +14,5 @@ public class AppStart {
 		System.out.println(d.getInstance()); // SEOUL 출력
 		System.out.println(num); // 1 출력
 	}
+	
 }

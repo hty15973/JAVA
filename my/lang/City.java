@@ -11,4 +11,5 @@ public enum City {
 	public int getInstance() {
 		return km;
 	}
+	
 }
